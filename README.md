@@ -1,4 +1,4 @@
-<img src = 'https://github.com/OhmVikrant/de2i-150_RealTimeIP/blob/master/Realtime_IP/hardware/img/de2i.jpg' style="width:400px; float: center; margin: 0 40px 40px 40px;"></img>
+<img src = 'https://github.com/OhmVikrant/Image-Processing-on-FPGA/blob/master/Realtime_IP/hardware/img/de2i.jpg' style="width:400px; float: center; margin: 0 40px 40px 40px;"></img>
 # Image-Processing-on-FPGA
 ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
